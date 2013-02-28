@@ -32,7 +32,7 @@ class RedBrush implements CarBrush {
 // Same for Black brush..
 class BlackBrush implements CarBrush {
   function getColor() {
-    return 'Grey';
+    return 'Black';
   }
   function repaint(Car $car) {
     $car->paintWith(new RedBrush);
