@@ -1,4 +1,4 @@
 travis
 ======
 
-Testing travis ci server
+Testing travis ci server with subdirectories
